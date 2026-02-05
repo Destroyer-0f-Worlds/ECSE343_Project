@@ -7,7 +7,6 @@ familiar with git)
 
 >git config --list  # You can find your username and email displayed when committing
 >git config --global user.name NEW_NAME   # To change your name
->git config --global user.email NEW_EMAIL # To change your email
 
 >git clone REPO_URL   # Initiate local git REPOSITORYURL
 

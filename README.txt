@@ -1,5 +1,6 @@
 Authors:
 -Eric
+-Zachary
 
 ECSE 343 Group Project!
 Some useful git commands (feel free to modify or add some, I'm not super 
